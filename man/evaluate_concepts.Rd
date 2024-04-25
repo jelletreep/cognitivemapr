@@ -43,6 +43,9 @@ derive an accurate evaluation of the nodes that takes into account all relations
 in the map. As for cyclical maps, it is possible that no balance may be reached
 we propose setting the diameter of the map as the maximum number of iterations
 }
+\details{
+Do we get to see this?
+}
 \examples{
 # INCOMPLETE
 # Load the data
